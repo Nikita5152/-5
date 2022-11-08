@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\Тортики\bin\Debug\net6.0\Тортики.exe
+C:\Users\ACER\source\repos\Тортики\bin\Debug\net6.0\Тортики.deps.json
+C:\Users\ACER\source\repos\Тортики\bin\Debug\net6.0\Тортики.runtimeconfig.json
+C:\Users\ACER\source\repos\Тортики\bin\Debug\net6.0\Тортики.dll
+C:\Users\ACER\source\repos\Тортики\bin\Debug\net6.0\Тортики.pdb
+C:\Users\ACER\source\repos\Тортики\obj\Debug\net6.0\Тортики.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Тортики\obj\Debug\net6.0\Тортики.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Тортики\obj\Debug\net6.0\Тортики.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Тортики\obj\Debug\net6.0\Тортики.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Тортики\obj\Debug\net6.0\Тортики.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Тортики\obj\Debug\net6.0\Тортики.dll
+C:\Users\ACER\source\repos\Тортики\obj\Debug\net6.0\refint\Тортики.dll
+C:\Users\ACER\source\repos\Тортики\obj\Debug\net6.0\Тортики.pdb
+C:\Users\ACER\source\repos\Тортики\obj\Debug\net6.0\Тортики.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Тортики\obj\Debug\net6.0\ref\Тортики.dll
